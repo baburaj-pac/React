@@ -1,0 +1,152 @@
+/* A Free Design by Bryant Smith (bryantsmith.com) */
+
+.pageStyle {
+    width: 60%;
+    margin: auto;
+  }
+  
+    #header
+    {
+    
+    background-repeat:no-repeat;
+    height:160px;
+    width:640px;
+    margin-top:35px;
+    }
+    
+    #content
+    {
+    
+    background-repeat:no-repeat;
+    padding:22px;
+    height:500px;
+    }
+    
+    #headerTitle
+    {
+    position:relative;
+    left:30px;
+    top:22px;
+    color:#FFFFFF;
+    text-align:left;
+    font-size:30px;
+    font-weight:bold;
+    font-family:Arial, Helvetica, sans-serif;
+    }
+    
+    #headerSubText
+    {
+    position:relative;
+    left:39px;
+    top:23px;
+    color:#011427;
+    text-align:left;
+    font-size:15px;
+    font-weight:bold;
+    font-family:Arial, Helvetica, sans-serif;
+    }
+    
+    #footer {
+    clear:both;
+    width: 640px;
+    
+    text-align:center;
+    font-size:9px;
+    }
+    
+    #columnOne
+    {
+        float: left;
+        width: 435px;
+        
+    }
+    #columnTwo
+    {
+        float:right;
+        width: 150px;
+        text-align:right;
+    }
+    #columnTwo h2
+    {
+    width:auto;
+    line-height:50px;
+    font-size:14px;
+    
+    background-repeat:repeat-x;
+    }
+    
+    
+    #columnTwo ul {
+        margin: 0;
+        padding: 0;
+        list-style: none;
+    }
+    
+    #columnTwo li {
+    margin-bottom:4px;
+    }
+    .comments
+    {
+    font-size:11px;
+    font-style:italic;
+    padding:10px;
+    }
+    
+    
+    a
+    {
+    text-decoration:none;
+    color:#EDF0F8;
+    }
+    
+    a:hover
+    {
+    color:#D9DFF0;
+    }
+    
+    
+    h1 
+    {
+    line-height:18px;
+    font-size:17px;
+    }
+    
+    h2 
+    {
+    line-height:20px;
+    font-size:15px;
+    }
+    
+    h3
+    {
+    font-size:13px;
+    line-height:30px;
+    font-weight:normal;
+    padding-bottom:10px;
+    }
+    
+    .content
+    {
+    font:Arial, Helvetica, sans-serif;
+    font-size:11px;
+    line-height:25px;
+    padding:2px;
+    margin-bottom:15px;
+    }
+    
+    blockquote {
+        font-size:10px;
+        text-align:justify;
+        width:300px;
+        color:#EAF4FF;
+        padding:12px;
+        
+        background-repeat:no-repeat;
+    }
+    
+    html, body {
+    text-align: center;
+    }
+    p {text-align: left;}
+    
+    
